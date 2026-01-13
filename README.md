@@ -37,8 +37,8 @@ A lightweight, Flask-powered web application for managing a personal library and
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/book-directory-system.git](https://github.com/yourusername/book-directory-system.git)
-    cd book-directory-system
+    git clone [https://github.com/amirsakib16/Book-Review-and-Users-Activity.git](https://github.com/amirsakib16/Book-Review-and-Users-Activity.git)
+    
     ```
 
 2.  **Install Dependencies:**
@@ -66,7 +66,12 @@ A lightweight, Flask-powered web application for managing a personal library and
     `http://127.0.0.1:5000`
 
 ---
-
+**Virtual Environment Activation**
+```text
+python -m venv env
+env/Scripts/activate
+```
+---
 ##  How It Works
 
 1.  **Adding a Book:** Go to the "Add Book" section. The system checks for duplicates based on Title, Year, and Author before saving.
