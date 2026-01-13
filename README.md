@@ -1,10 +1,21 @@
-# 📚 BookWise | Digital Book Directory & Review System
+# BookWise | Digital Book Directory & Review System
 
 A lightweight, Flask-powered web application for managing a personal library and tracking reader reviews. This system allows you to catalog books, calculate average ratings dynamically, and view a ranked leaderboard of the highest-rated titles.
 
 ---
 
-## 🚀 Features
+# BookWise | Digital Book Directory & Review System
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" />
+  <br />
+  <a href="https://book-store-beige-nu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/live_demo-online-brightgreen?style=flat-square" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+## Features
 
 * **Book Management:** Add new books with title, publication year, and author details.
 * **Smart Rating System:** Automatically calculates and updates the average rating as new reviews are added.
@@ -14,7 +25,7 @@ A lightweight, Flask-powered web application for managing a personal library and
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 * **Backend:** Python 3.x, Flask
 * **Frontend:** HTML5, Tailwind CSS, JavaScript (Fetch API)
@@ -22,7 +33,7 @@ A lightweight, Flask-powered web application for managing a personal library and
 
 ---
 
-## 📋 Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the Repository:**
     ```bash
@@ -56,7 +67,7 @@ A lightweight, Flask-powered web application for managing a personal library and
 
 ---
 
-## 📖 How It Works
+##  How It Works
 
 1.  **Adding a Book:** Go to the "Add Book" section. The system checks for duplicates based on Title, Year, and Author before saving.
 2.  **Submitting a Review:** Select a book from the dropdown, enter your name, a rating (1-5), and your comment.
@@ -64,5 +75,5 @@ A lightweight, Flask-powered web application for managing a personal library and
 
 ---
 
-## 🛡️ License
+##  License
 This project is open-source and available under the MIT License.
