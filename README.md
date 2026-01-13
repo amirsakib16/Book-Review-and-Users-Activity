@@ -37,7 +37,7 @@ A lightweight, Flask-powered web application for managing a personal library and
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/amirsakib16/Book-Review-and-Users-Activity.git](https://github.com/amirsakib16/Book-Review-and-Users-Activity.git)
+    git clone https://github.com/amirsakib16/Book-Review-and-Users-Activity.git
     
     ```
 
